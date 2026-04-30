@@ -1,0 +1,38 @@
+RiftKitten {
+    graphics.append {
+		tooltip "GUN_RIFTKITTEN_DESC"
+    }
+
+    stats.overwrite {
+        strength 6
+        dexterity 5
+        constitution 5
+        intelligence 5
+        speed 5
+        charisma 5
+        luck 5
+    }
+    
+    properties.overwrite {
+        tag cat
+        type cat
+        //health 16
+        faction allies
+        mana_matters true
+    }
+
+    abilities.overwrite {
+        move DefaultMove
+        attack BasicMelee
+        can_get_bonus true
+        spells.append [FurySwipes, ChaosRampage2, Till2]
+        passives.append [FirstImpression, OverConfident]
+    }
+
+    // Spawn slightly injured (Since we WERE just dropped by the defeated organ grinder)...
+    passives.overwrite {
+        StatusOnSpawnIn {
+            SetHealth 75%
+        }
+    }
+}
