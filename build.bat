@@ -72,6 +72,8 @@ if not exist "%DEPLOY_DIR%\data\text" (
 
 copy /Y "data\characters\rifthead.gon.patch" "%DEPLOY_DIR%\data\characters\rifthead.gon.patch"
 copy /Y "data\text\combined.csv.append" "%DEPLOY_DIR%\data\text\combined.csv.append"
+copy /Y description.json "%DEPLOY_DIR%\description.json"
+copy /Y preview.png "%DEPLOY_DIR%\preview.png"
 
 echo.
 echo Build succeeded and deployed to %DEPLOY_DIR%
