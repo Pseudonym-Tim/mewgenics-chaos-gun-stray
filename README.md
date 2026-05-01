@@ -5,6 +5,6 @@ A DLL mod for Mewgenics that allows you to bring "Gun", everyone's favorite cat,
 <br>
 <img width="598" height="249.5" alt="20260430113842_1" src="https://github.com/user-attachments/assets/54a9f1b4-1662-46e3-9c02-7b071c89fbaf" />
 <br>
-<br>
-<img width="520" height="345" alt="icon" src="https://github.com/user-attachments/assets/bd1b4485-9275-49ae-afa0-8d47bb2b221f" />
+<br><img width="520" height="345" alt="preview" src="https://github.com/user-attachments/assets/5653cd98-dcef-4a7e-928c-4393bb9ffc26" />
+
 <br>
