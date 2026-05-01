@@ -1,5 +1,5 @@
 # Bring Gun Home!
-A DLL mod for Mewgenics that lets you bring "Gun", everyone's favorite cat, back home with you if he survives the Chaos! boss fight in The Rift
+A DLL mod for Mewgenics that allows you to bring "Gun", everyone's favorite cat, back home with you as a unique stray if he survives the Chaos! boss fight in The Rift
 <br><br>
 <img width="720" height="405" alt="686060_154" src="https://github.com/user-attachments/assets/2d0e06df-a82d-4dc1-9020-7a42111c23bb" />
 <br>
